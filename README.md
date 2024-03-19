@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### Preparing the Dataset
 
-Download the MNIST dataset from [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/) or another source. Ensure the dataset files are placed in the `./archive` directory with the following structure:
+Download the MNIST dataset from [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/) or [another source](https://www.kaggle.com/datasets/hojjatk/mnist-dataset). Ensure the dataset files are placed in the `./archive` directory with the following structure:
 
 - `./archive/train-images-idx3-ubyte/train-images-idx3-ubyte`
 - `./archive/train-labels-idx1-ubyte/train-labels-idx1-ubyte`
